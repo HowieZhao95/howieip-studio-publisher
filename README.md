@@ -66,7 +66,7 @@
 
 ## 安装
 
-1. 下载本仓库：`git clone https://github.com/HowieZhao95/mdldm-maitian-publisher.git`，或点右上角 **Code → Download ZIP** 后解压
+1. 下载本仓库：`git clone https://github.com/HowieZhao95/howieip-studio-publisher.git`，或点右上角 **Code → Download ZIP** 后解压
 2. Chrome 打开 `chrome://extensions`，打开右上角「开发者模式」
 3. 点「加载已解压的扩展程序」，选择仓库文件夹
 4. 点工具栏的拼图图标，把「howieip-studio 发布助手」固定出来
