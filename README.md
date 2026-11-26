@@ -1,4 +1,4 @@
-> **👉 请从 [Chrome 应用商店安装 howieip-studio 发布助手](https://chromewebstore.google.com/detail/eaaipbilkhibicihiollecmbpneikpnj)**，自动更新，不用下载代码、不用开开发者模式；配合 [howieip-studio](https://github.com/CzzzzzzJ/mdldm-maitian) 使用时，安装向导会带你装。本仓库是源码，供开发参考。
+> **👉 请从 [Chrome 应用商店安装 howieip-studio 发布助手](https://chromewebstore.google.com/detail/eaaipbilkhibicihiollecmbpneikpnj)**，自动更新，不用下载代码、不用开开发者模式；配合 [howieip-studio](https://github.com/HowieZhao95/howieip-studio) 使用时，安装向导会带你装。本仓库是源码，供开发参考。
 >
 > 本仓库停在 0.5.1（MIT，继续可用）。商店版免费、持续更新；之后新版本的源码在会员仓库更新。
 
@@ -10,16 +10,16 @@
 
 **howieip-studio 工作台的发布引擎：一期视频，一键填好 B 站、小红书、抖音、视频号、YouTube、X、Instagram 七个平台；Obsidian 笔记，一键写进 X 长文。**
 
-只负责填写，最后的「发布」由你自己点。可以单独用，也可以交给 [howieip-studio](https://github.com/CzzzzzzJ/mdldm-maitian) 定时调度、发完自动取链接、每天采数据。
+只负责填写，最后的「发布」由你自己点。可以单独用，也可以交给 [howieip-studio](https://github.com/HowieZhao95/howieip-studio) 定时调度、发完自动取链接、每天采数据。
 
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Manifest%20V3-2f6bff.svg)](manifest.json)
 [![Version](https://img.shields.io/badge/version-0.3.1-ffd43b.svg)](manifest.json)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/CzzzzzzJ/mdldm-maitian-publisher?style=social)](https://github.com/CzzzzzzJ/mdldm-maitian-publisher/stargazers)
+[![Stars](https://img.shields.io/github/stars/HowieZhao95/howieip-studio-publisher?style=social)](https://github.com/HowieZhao95/howieip-studio-publisher/stargazers)
 
 [安装](#安装) · [和 howieip-studio 一起用](#和 howieip-studio 一起用) · [视频多平台分发](#视频多平台分发) · [X 长文](#x-长文使用) · [原理](#原理和踩过的坑)
 
-[howieip-studio 工作台](https://github.com/CzzzzzzJ/mdldm-maitian) · [联系作者](#联系作者)
+[howieip-studio 工作台](https://github.com/HowieZhao95/howieip-studio) · [联系作者](#联系作者)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 ## 和 howieip-studio 一起用
 
-[howieip-studio](https://github.com/CzzzzzzJ/mdldm-maitian) 是一套给多平台博主的开源工作台：分发和定时、各平台数据留存和大屏、接入你自己的站点看转化。三者分工：
+[howieip-studio](https://github.com/HowieZhao95/howieip-studio) 是一套给多平台博主的开源工作台：分发和定时、各平台数据留存和大屏、接入你自己的站点看转化。三者分工：
 
 | 部分 | 做什么 |
 | --- | --- |
@@ -201,7 +201,7 @@ X 长文编辑器基于 Draft.js。插件用 `chrome.scripting.executeScript({ w
 
 - **想学会用 AI 做出自己的工具和产品**：访问 👉 [**知识站 mdldm.club**](https://www.mdldm.club/ai-course-promotion?utm_source=github&utm_medium=readme&utm_campaign=publisher)。0 基础 AI Agent / Vibe Coding 系列课、每周会员直播、答疑群都在这里
 - **想搭一个自己的知识付费站**：看我开源的 [mdldm-knowledge-kit](https://github.com/CzzzzzzJ/mdldm-knowledge-kit)
-- **Bug 和功能建议**：提 [GitHub Issue](https://github.com/CzzzzzzJ/mdldm-maitian-publisher/issues)
+- **Bug 和功能建议**：提 [GitHub Issue](https://github.com/HowieZhao95/howieip-studio-publisher/issues)
 - **课程合作、品牌合作、企业 AI 培训**：通过 [个人联系页](https://www.mdldm.club/about) 联系，或在 B 站、小红书、抖音搜索 **Howie**
 
 | 个人微信 |
